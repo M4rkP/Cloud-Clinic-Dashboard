@@ -1,2 +1,2 @@
 # Cloud-Clinic-Dashboard
-Cloud Clinic Dashboard Project is a end-to-end data engineering and analysis project where I have extracted data in batches from SMHSA Website for Mental Health Diagnosis and Feature Engineered Social and Economic cues which play a vital role in diagnosis of a patient.  
+Cloud Clinic Dashboard Project is a end-to-end data engineering and analysis project where I have extracted data in batches from SMHSA Website for Mental Health Diagnosis and simulated a streaming pipeline for real-world use case. The goal of the project is to find social and economic cues using a clustering model to identify population clusters which are grouped according to their risk profiles which were feature engineered alongside various social features.
